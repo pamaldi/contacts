@@ -1,0 +1,7 @@
+com/abcbank/ws/rest/ContactNotFoundAdvice.class
+com/abcbank/ws/rest/ContactController.class
+com/abcbank/ws/rest/LoadDatabase.class
+com/abcbank/configuration/PayrollApplication.class
+com/abcbank/model/Contact.class
+com/abcbank/repository/ContactRepository.class
+com/abcbank/ws/rest/ContactNotFoundException.class

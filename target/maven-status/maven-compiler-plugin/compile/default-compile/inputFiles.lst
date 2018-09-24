@@ -1,0 +1,7 @@
+/mnt/localdisk/progetti/studio/contacts/contacts/src/main/java/com/abcbank/ws/rest/LoadDatabase.java
+/mnt/localdisk/progetti/studio/contacts/contacts/src/main/java/com/abcbank/ws/rest/ContactNotFoundException.java
+/mnt/localdisk/progetti/studio/contacts/contacts/src/main/java/com/abcbank/model/Contact.java
+/mnt/localdisk/progetti/studio/contacts/contacts/src/main/java/com/abcbank/ws/rest/ContactNotFoundAdvice.java
+/mnt/localdisk/progetti/studio/contacts/contacts/src/main/java/com/abcbank/repository/ContactRepository.java
+/mnt/localdisk/progetti/studio/contacts/contacts/src/main/java/com/abcbank/configuration/PayrollApplication.java
+/mnt/localdisk/progetti/studio/contacts/contacts/src/main/java/com/abcbank/ws/rest/ContactController.java
